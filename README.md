@@ -1,2 +1,3 @@
 # Linear-Regsression-from-scratch
-linear regression from scratch, batch, minibatch &amp; Stochastic gradient descent.
+###Linear Regression from Scratch by means of "Ordinary Least Mean Square" and "Gradient Descent" approaches
+
